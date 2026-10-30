@@ -6,7 +6,7 @@ Sixteen opaque colors on a single blue-black base. Warm amber for attention,
 muted moss for success, cold blue for structure — nothing pure white, nothing
 pure black. Named for *ambrite*, the mineralogical term for fossil resin.
 
-![Ambrite palette](assets/palette.png)
+![Ambrite palette](ColorPreview.png)
 
 ## Surfaces
 
